@@ -1,0 +1,1 @@
+export const baseUrl = 'https://netease-cloud-music-api-gamma-topaz.vercel.app';
